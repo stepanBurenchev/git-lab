@@ -2,3 +2,4 @@ First line from PHPStorm
 Second line from PHPStorm
 Third line from VSCode
 New line from PHPStorm
+New lione from VSCode
