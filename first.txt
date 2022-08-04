@@ -1,4 +1,4 @@
-First line from PHPStorm line 1
+First line from PHPStorm
 Second line from PHPStorm line 2
 Third line from VSCode
 New line from PHPStorm line 4
